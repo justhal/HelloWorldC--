@@ -1,0 +1,10 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/justhal/Projects/C++/HelloWorldC++",
+            "binaryPath": "/home/justhal/Projects/C++/HelloWorldC++/helloworld",
+            "binaryArgs": []
+        }
+    ],
+    "makefile.buildLog": "make.log"
+}
